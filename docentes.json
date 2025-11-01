@@ -1,17 +1,17 @@
 [
     {
-        "nombre": "Edson",
-        "num_empleado": "245646",
+        "nombre": "ROBERTO",
+        "num_empleado": "58484",
         "carrera": "REDES"
     },
     {
-        "nombre": "Alan",
-        "num_empleado": "651544",
-        "carrera": "MECATRONICA"
+        "nombre": "GABRIEL",
+        "num_empleado": "58484",
+        "carrera": "DESARROLLO"
     },
     {
-        "nombre": "Alejandro",
+        "nombre": "PATRICIA",
         "num_empleado": "684684",
-        "carrera": "RH"
+        "carrera": "REDES"
     }
 ]
