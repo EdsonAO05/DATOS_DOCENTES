@@ -4,10 +4,6 @@ import yaml
 from dicttoxml import dicttoxml
 import os
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-EXPORT_FOLDER = os.path.join(BASE_DIR, "DOCENTES")
-if not os.path.exists(EXPORT_FOLDER):
-    os.makedirs(EXPORT_FOLDER)
 
 app = Flask(__name__)
 
