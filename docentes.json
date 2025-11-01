@@ -1,17 +1,17 @@
 [
     {
-        "nombre": "ROBERTO",
-        "num_empleado": "58484",
+        "nombre": "GUZMAN",
+        "num_empleado": "435435",
         "carrera": "REDES"
     },
     {
-        "nombre": "GABRIEL",
-        "num_empleado": "58484",
+        "nombre": "ALAN",
+        "num_empleado": "5454",
         "carrera": "DESARROLLO"
     },
     {
-        "nombre": "PATRICIA",
-        "num_empleado": "684684",
-        "carrera": "REDES"
+        "nombre": "DAVID ARROYO",
+        "num_empleado": "6854654",
+        "carrera": "CIBERSEGURIDAD"
     }
 ]
